@@ -97,6 +97,6 @@ All top features are genuine pre-strike conditions — confirming the leakage fi
 
 > *"Initial models showed 99% accuracy due to data leakage from post-strike damage flags. After removing leakage and retraining with only pre-strike features, the model achieved 62% damage recall — a more honest reflection of what is actually predictable before a strike occurs."*
 
-The drop from 99% to 82% accuracy is not a failure — it is a more truthful model.
+
 
 
